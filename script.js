@@ -1,5 +1,14 @@
 // function People(data) {
-//   return data.map((a) => a.price);
+//   return data.sort((a, b) => a.price - b.price);
+// }
+
+// const result = People(product.products);
+// console.log(result);
+
+///////////////////////////////////////////////////////
+
+// function People(data) {
+//   return data.sort((a, b) => b.price - a.price);
 // }
 
 // const result = People(product.products);
@@ -31,7 +40,6 @@
 
 // let result = filterPopulation(product.products);
 // console.log(result);
-
 
 /////////////////////////////////////////////////
 
